@@ -1,0 +1,22 @@
+{
+  "name": "<%- name %>",
+  "description": "",
+  "main": "dist/server.js",
+  "license": "MIT",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "directory": "public/bower_components/",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
